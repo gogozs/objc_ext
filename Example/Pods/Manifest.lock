@@ -1,0 +1,16 @@
+PODS:
+  - objc_ext (0.1.0)
+
+DEPENDENCIES:
+  - objc_ext (from `../`)
+
+EXTERNAL SOURCES:
+  objc_ext:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  objc_ext: 1406d31aa382c01ca49f8a2dd8b14fd2d92fdcde
+
+PODFILE CHECKSUM: d23d741e6a88cee2b592083e195853ae94ffa90b
+
+COCOAPODS: 1.5.0

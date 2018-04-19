@@ -1,0 +1,22 @@
+{
+  "name": "objc_ext",
+  "version": "0.1.0",
+  "summary": "A short description of objc_ext.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/songathsk/objc_ext",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "songathsk": "zhousong1993@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/songathsk/objc_ext.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "objc_ext/Classes/**/*"
+}

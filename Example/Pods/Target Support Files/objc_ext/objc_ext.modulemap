@@ -1,0 +1,6 @@
+framework module objc_ext {
+  umbrella header "objc_ext-umbrella.h"
+
+  export *
+  module * { export * }
+}
