@@ -8,6 +8,7 @@
 
 @import XCTest;
 
+#import "objc_ext.h"
 @interface Tests : XCTestCase
 
 @end

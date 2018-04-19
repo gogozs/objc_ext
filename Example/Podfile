@@ -1,4 +1,4 @@
-use_frameworks!
+#use_frameworks!
 
 target 'objc_ext_Example' do
   pod 'objc_ext', :path => '../'

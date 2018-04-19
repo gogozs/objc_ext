@@ -7,7 +7,6 @@
 //
 
 #import "SZViewController.h"
-
 @interface SZViewController ()
 
 @end

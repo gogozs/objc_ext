@@ -38,6 +38,16 @@
                ReferencedContainer = "container:objc_ext.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "589D400D20889A2C0072202F"
+               BuildableName = "objc_ext_ExampleTests.xctest"
+               BlueprintName = "objc_ext_ExampleTests"
+               ReferencedContainer = "container:objc_ext.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
