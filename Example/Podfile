@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'objc_ext_Example' do
+  pod 'objc_ext', :path => '../'
+
+  target 'objc_ext_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
